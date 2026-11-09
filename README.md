@@ -1,7 +1,4 @@
 # Lab7Web_PHP
-LAPORAN PRAKTIKUM 7: PEMROGRAMAN SERVER-SIDE DENGAN PHP
-Mata Kuliah Pemrograman Web | Repository: Lab7Web_PHP
-
 A. Langkah Kerja Praktikum dan Cara Kerja Program
 
 Latihan 1: Menjalankan PHP
